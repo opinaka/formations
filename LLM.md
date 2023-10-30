@@ -13,3 +13,7 @@
 - [Co-writing with AI](https://huggingface.co/spaces/chansung/co-write-with-llama2)
 - [WizardLM](https://huggingface.co/spaces/s3nh/WizardLM-1.0-Uncensored-Llama2-13b-GGML)
 - [Llama2 70B Chatbot with EasyLLM](https://huggingface.co/spaces/akdeniz27/LLaMa-2-70b-chat-hf-with-EasyLLM)
+
+
+https://huggingface.co/spaces/randomshit11/randomshit11-fin-bert-1st-shit
+https://randomshit11-randomshit11-fin-bert-1st-shit.hf.space/--replicas/4blgq/
