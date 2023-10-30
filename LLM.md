@@ -9,4 +9,4 @@
 - https://modal.com/docs/examples/llm-voice-chat
 
 ## Hugging Face
-- LLaMA2 70B with Gradio Chat and Hugging Face Inference API: https://huggingface.co/spaces/chansung/llama2-with-gradio-chat
+- [LLaMA2 70B with Gradio Chat and Hugging Face Inference API](https://huggingface.co/spaces/chansung/llama2-with-gradio-chat)
